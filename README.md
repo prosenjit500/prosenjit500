@@ -1,28 +1,41 @@
-# 👋 Hi, I'm Prosenjit Majumder
+# 👋 Hello, I'm Prosenjit Majumder
 
-🎯 Aspiring Data Analyst | 💼 Currently an Administrative Assistant  
-📍 India | 📊 Learning Data Analysis Tools and Techniques
-
----
-
-I’m passionate about transforming raw data into actionable insights.  
-Currently exploring and building projects with:
-
-- 📊 **Power BI**  
-- 🐍 **Python** (Pandas, Matplotlib, Seaborn)  
-- 🗃️ **SQL**  
-- 📈 **Microsoft Excel**
-
-I'm sharing my learning journey and projects on [LinkedIn](https://www.linkedin.com/in/prosenjit-majumder/) — feel free to connect!
+🎯 **Aspiring Data Analyst**  
+🔍 Turning raw data into actionable insights using Power BI, Python, SQL & Microsoft Excel  
+📈 Currently building my portfolio to transition into a full-time Data Analyst role
 
 ---
 
-💡 **2025 Goals**  
-- Complete 50-day SQL challenge ✅  
-- Build an interactive dashboard portfolio  
-- Land a full-time **Data Analyst** role  
+## 🧠 Featured Projects
+
+Click on any project image to dive into the full case study & code 👇
 
 ---
 
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/prosenjitmajumder/)  
+### 🍽️ Zomato Performance Analysis  
+Uncovering restaurant and cuisine trends to optimize user satisfaction and operational efficiency.
 
+[![Zomato Performance Analysis](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)](https://github.com/prosenjit500/Zomato_Performance_Analysis)
+
+---
+
+### 📱 Motorola Sales Performance Insights  
+Analyzed sales data to drive strategic decisions and improve product performance across regions.
+
+[![Motorola Sales Performance Insights](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights/blob/main/Motorola%20Sales%20Performance%20Insights%20Dashboard.jpg)](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights)
+
+---
+
+### 🧑‍💼 HR Analytics Dashboard  
+Dashboard to analyze employee trends, attrition, and HR KPIs for better workforce decisions.
+
+[![HR Analytics Dashboard](https://github.com/prosenjit500/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.jpg)](https://github.com/prosenjit500/HR-Analytics-Dashboard)
+
+---
+
+## 🌐 Connect With Me
+
+🔗 [LinkedIn – Prosenjit Majumder](https://www.linkedin.com/in/prosenjit-majumder/)  
+📧 Let’s collaborate and grow together!
+
+---
