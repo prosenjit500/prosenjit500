@@ -33,10 +33,12 @@ A case study project using Power BI and Microsoft Excel to analyze HR data, prov
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact & Contributions  
+If you find these projects useful or have suggestions for improvements, feel free to contribute or reach out!
 
-🔗 [LinkedIn – Prosenjit Majumder](https://www.linkedin.com/in/prosenjitmajumder/)  
+🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
 
-📧 Let’s collaborate and grow together!
+📧 Email: prosenjitmajumder500@gmail.com
+
 
 ---
