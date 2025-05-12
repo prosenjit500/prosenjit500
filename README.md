@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Prosenjit Majumder
 
-<!--
-**prosenjit500/prosenjit500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | 💼 Currently an Administrative Assistant  
+📍 India | 📊 Learning Data Analysis Tools and Techniques
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about transforming raw data into actionable insights.  
+Currently exploring and building projects with:
+
+- 📊 **Power BI**  
+- 🐍 **Python** (Pandas, Matplotlib, Seaborn)  
+- 🗃️ **SQL**  
+- 📈 **Microsoft Excel**
+
+I'm sharing my learning journey and projects on [LinkedIn](https://www.linkedin.com/in/prosenjit-majumder/) — feel free to connect!
+
+---
+
+💡 **2025 Goals**  
+- Complete 50-day SQL challenge ✅  
+- Build an interactive dashboard portfolio  
+- Land a full-time **Data Analyst** role  
+
+---
+
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/prosenjitmajumder/)  
+
