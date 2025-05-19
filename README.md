@@ -36,15 +36,7 @@ A case study project using Power BI and Microsoft Excel to analyze HR data, prov
 ### Customer Churn Analysis
 A Comprehensive Exploratory Data Analysis (EDA) to understand the factors behind customer churn.
 
-[![Customer Churn Analysis ](https://github.com/prosenjit500/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.jpg)](https://github.com/prosenjit500/HR-Analytics-Dashboard)
-
-
-
-
-
-
-
-
+[![Customer Churn Analysis ](https://github.com/prosenjit500/Customer_Churn_Analysis/blob/main/Customer%20Churn%20Analysis%20Thumbnail.PNG)](https://github.com/prosenjit500/Customer_Churn_Analysis)
 
 
 ## 📬 Contact & Contributions  
