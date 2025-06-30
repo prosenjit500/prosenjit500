@@ -19,13 +19,6 @@ A case study project simulating a real-world analytics scenario using Power BI, 
 
 ---
 
-### 📱 Motorola Sales Performance Insights  
-A case study project for Motorola, using Power BI and Microsoft Excel to analyze sales trends and provide insights for strategic decision-making.
-
-[![Motorola Sales Performance Insights](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights/blob/main/Motorola%20Sales%20Performance%20Insights%20Dashboard.jpg)](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights)
-
----
-
 ### 🧑‍💼 HR Analytics Dashboard  
 A case study project using Power BI and Microsoft Excel to analyze HR data, providing insights into employee trends, attrition, and workforce performance.
 
@@ -37,6 +30,22 @@ A case study project using Power BI and Microsoft Excel to analyze HR data, prov
 A Comprehensive Exploratory Data Analysis (EDA) to understand the factors behind customer churn.
 
 [![Customer Churn Analysis ](https://github.com/prosenjit500/Customer_Churn_Analysis/blob/main/Customer%20Churn%20Analysis.png)](https://github.com/prosenjit500/Customer_Churn_Analysis)
+
+---
+
+### Digital Banking Growth After COVID
+A SQL-Powered Analytical Case Study on Post-COVID Digital Banking Transformation
+
+[![Motorola Sales Performance Insights](https://github.com/prosenjit500/SQL-Digital-Banking-Post-COVID/blob/main/Digital%20Banking%20Growth%20After%20COVID.png)](https://github.com/prosenjit500/SQL-Digital-Banking-Post-COVID)
+
+---
+
+### 📱 Motorola Sales Performance Insights  
+A case study project for Motorola, using Power BI and Microsoft Excel to analyze sales trends and provide insights for strategic decision-making.
+
+[![Motorola Sales Performance Insights](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights/blob/main/Motorola%20Sales%20Performance%20Insights%20Dashboard.jpg)](https://github.com/prosenjit500/Motorola_Sales-_Performance-_Insights)
+
+---
 
 
 ## 📬 Contact & Contributions  
