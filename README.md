@@ -15,7 +15,7 @@ Click on any project image to dive into the full case study & code 👇
 ### 🍽️ Zomato Performance Analysis  
 A case study project simulating a real-world analytics scenario using Power BI, SQL, and Microsoft Excel on a dataset of over 1 million rows. This project focuses on uncovering customer behavior patterns, sales performance trends, and restaurant-level operational insights to support data-driven decisions.
 
-[![Zomato Performance Analysis](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)](https://github.com/prosenjit500/Zomato_Performance_Analysis)
+[![Zomato Performance Analysis](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Dashboard/Zomato%20Performance%20Analysis.PNG)](https://github.com/prosenjit500/Zomato_Performance_Analysis)
 
 ---
 
