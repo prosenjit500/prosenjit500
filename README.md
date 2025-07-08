@@ -36,7 +36,7 @@ A Comprehensive Exploratory Data Analysis (EDA) to understand the factors behind
 ### Digital Banking Growth After COVID
 A SQL-Powered Analytical Case Study on Post-COVID Digital Banking Transformation
 
-[![Motorola Sales Performance Insights](https://github.com/prosenjit500/SQL-Digital-Banking-Post-COVID/blob/main/Digital%20Banking%20Growth%20After%20COVID.png)](https://github.com/prosenjit500/SQL-Digital-Banking-Post-COVID)
+![Digital Banking Growth After COVID](https://github.com/prosenjit500/SQL-Digital-Banking-Post-COVID/blob/main/Prosenjit_Majumder_SQL_Digital_Banking_Case_Study/1.%20Digital%20Banking%20Growth%20After%20COVID.jpg)
 
 ---
 
